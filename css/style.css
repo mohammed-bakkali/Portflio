@@ -80,9 +80,9 @@ section{
     display: flex;
     align-items: center;
     justify-content: flex-start;
-    background: linear-gradient(rgba(0,0,0, .1), rgba(0,0,0, .4)), url('../images/background-1.jpeg');
-    background-size: cover;
-    background-position: center;
+/*     background: linear-gradient(rgba(0,0,0, .1), rgba(0,0,0, .4)), url('../images/background-1.jpeg');
+    background-size: cover; */
+/*     background-position: center; */
 }
 .home-text h1{
     margin: 20px 0;
