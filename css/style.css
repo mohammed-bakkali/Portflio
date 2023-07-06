@@ -58,7 +58,7 @@ header{
     border-radius: 0.5rem;
     transition: all 40 ease; 
 }
-navbar a.active{
+.navbar a.active{
     background-color: var(--main-color);
     color: var(--text-color);
 }
