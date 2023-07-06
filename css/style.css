@@ -53,10 +53,9 @@ header{
     font-weight: 600;
     padding: 10PX 25px;
     margin: 0 2px;
-    
     text-decoration: none;
     border-radius: 0.5rem;
-    transition: all 40 ease; 
+    transition: all 40s ease; 
 }
 .navbar a.active{
     background-color: var(--main-color);
